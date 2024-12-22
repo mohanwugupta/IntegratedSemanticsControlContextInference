@@ -1,0 +1,81 @@
+,Argument 1-Premise 1,Argument 1-Premise 2,Argument 1-Conclusion,Argument 2-Premise 1,Argument 2-Premise 2,Argument 2-Conclusion,Argument 1-Premise 3,Argument 2-Premise 3,GPT-4,GPT-3.5
+0,Airplanes,Rhinos,Crows,Airplanes,,Crows,,,1.0,1.0
+1,Magpies,Turtles,Zeppelins,Magpies,,Zeppelins,,,1.0,1.0
+2,Dragonflies,Tracksuits,Airplanes,Dragonflies,,Airplanes,,,1.0,1.0
+3,Bumblebees,Blouses,Airplanes,Bumblebees,,Airplanes,,,1.0,1.0
+4,Cuckoos,Bass guitars,(Hot Air) balloons,Cuckoos,,(Hot Air) balloons,,,1.0,1.0
+5,Robins,Turkeys,Mosquitoes,Robins,,Mosquitoes,,,1.0,1.0
+6,Bats,Iguanas,Butterflies,Bats,,Butterflies,,,1.0,1.0
+7,Eagles,Wolves,Flies,Eagles,,Flies,,,1.0,1.0
+8,(Hot Air) balloons,Elephants,Bumblebees,(Hot Air) balloons,,Bumblebees,,,1.0,1.0
+9,Doves,Foxes,Helicopters,Doves,,Helicopters,,,1.0,1.0
+10,Falcons,Snakes,Helicopters,Falcons,,Helicopters,,,1.0,1.0
+11,Horseflies,Frogs,Helicopters,Horseflies,,Helicopters,,,1.0,1.0
+12,Sparrows,Saws,Rockets,Sparrows,,Rockets,,,1.0,1.0
+13,Doves,Dolphins,Helicopters,Doves,,Helicopters,,,1.0,1.0
+14,Pheasants,Boots,(Hot Air) balloons,Pheasants,,(Hot Air) balloons,,,1.0,1.0
+15,Bees,Jeans,Zeppelins,Bees,,Zeppelins,,,1.0,1.0
+16,Herons,Sheep,Airplanes,Herons,,Airplanes,,,1.0,1.0
+17,Canaries,Bison,Bees,Canaries,,Bees,,,1.0,1.0
+18,Blackbirds,Organs,Airplanes,Blackbirds,,Airplanes,,,1.0,2.0
+19,Fruit Flies,Dolphins,(Hot Air) balloons,Fruit Flies,,(Hot Air) balloons,,,1.0,2.0
+20,Chickadees,Levels,Rockets,Chickadees,,Rockets,,,1.0,1.0
+21,Bees,Llamas,Cuckoos,Bees,,Cuckoos,,,1.0,1.0
+22,Magpies,Carp,Zeppelins,Magpies,,Zeppelins,,,1.0,1.0
+23,Bumblebees,Toads,Pelicans,Bumblebees,,Pelicans,,,1.0,1.0
+24,Horseflies,Salamanders,Eagles,Horseflies,,Eagles,,,1.0,1.0
+25,Butterflies,Hippos,Blackbirds,Butterflies,,Blackbirds,,,1.0,1.0
+26,Blackbirds,Hats,Airplanes,Blackbirds,,Airplanes,,,1.0,2.0
+27,Helicopters,Pots,Flies,Helicopters,,Flies,,,1.0,1.0
+28,Blackbirds,Bras,Airplanes,Blackbirds,,Airplanes,,,1.0,1.0
+29,Eagles,Clarinets,Airplanes,Eagles,,Airplanes,,,1.0,1.0
+30,Sparrows,Snakes,Zeppelins,Sparrows,,Zeppelins,,,1.0,1.0
+31,Storks,Panties,Zeppelins,Storks,,Zeppelins,,,1.0,1.0
+32,Herons,Pigs,Airplanes,Herons,,Airplanes,,,1.0,1.0
+33,Swallows,Wolves,Wasps,Swallows,,Wasps,,,1.0,1.0
+34,Robins,Snakes,Helicopters,Robins,,Helicopters,,,1.0,1.0
+106,Falcons,Ducks,(Hot Air) balloons,Falcons,,(Hot Air) balloons,,,1.0,1.0
+107,Moths,Camels,Canaries,Moths,,Canaries,,,1.0,1.0
+110,Owls,Rhinos,Wasps,Owls,,Wasps,,,1.0,1.0
+115,Canaries,Bassoons,Zeppelins,Canaries,,Zeppelins,,,1.0,1.0
+116,Woodpeckers,Hedgehogs,Dragonflies,Woodpeckers,,Dragonflies,,,1.0,1.0
+117,Flies,Rays,Parakeets,Flies,,Parakeets,,,1.0,1.0
+118,Cuckoos,Accordions,(Hot Air) balloons,Cuckoos,,(Hot Air) balloons,,,1.0,1.0
+121,Swallows,Piranhas,Rockets,Swallows,,Rockets,,,2.0,1.0
+122,Owls,Caimans,Zeppelins,Owls,,Zeppelins,,,1.0,1.0
+125,Horseflies,Pan flutes,(Hot Air) balloons,Horseflies,,(Hot Air) balloons,,,1.0,1.0
+129,Parakeets,Alligators,Zeppelins,Parakeets,,Zeppelins,,,1.0,1.0
+130,Cuckoos,Turkeys,Helicopters,Cuckoos,,Helicopters,,,1.0,1.0
+131,Eagles,Cobras,Bats,Eagles,,Bats,,,1.0,1.0
+133,Bumblebees,Tortoises,Rockets,Bumblebees,,Rockets,,,1.0,1.0
+134,Magpies,Polar Bears,Zeppelins,Magpies,,Zeppelins,,,1.0,1.0
+135,Rockets,Colanders,Flies,Rockets,,Flies,,,1.0,1.0
+138,Bees,Grasshoppers,Airplanes,Bees,,Airplanes,,,1.0,1.0
+317,Cuckoos,Woks,Zeppelins,Cuckoos,,Zeppelins,,,1.0,1.0
+318,Fruit Flies,Beetles,Crows,Fruit Flies,,Crows,,,1.0,1.0
+319,Cuckoos,Go-carts,(Hot Air) balloons,Cuckoos,,(Hot Air) balloons,,,1.0,1.0
+325,Horseflies,Swordfish,Rockets,Horseflies,,Rockets,,,1.0,1.0
+327,Parrots,Trumpets,Airplanes,Parrots,,Airplanes,,,1.0,1.0
+330,Storks,Jeans,Rockets,Storks,,Rockets,,,1.0,1.0
+331,Mosquitoes,Toads,Pheasants,Mosquitoes,,Pheasants,,,1.0,1.0
+332,Cuckoos,Worms,Flies,Cuckoos,,Flies,,,1.0,1.0
+335,Cuckoos,Lizards,Horseflies,Cuckoos,,Horseflies,,,1.0,1.0
+341,Canaries,Cats,Rockets,Canaries,,Rockets,,,1.0,1.0
+346,Woodpeckers,Hedgehogs,Bumblebees,Woodpeckers,,Bumblebees,,,1.0,1.0
+459,Sparrows,Alligators,Rockets,Sparrows,,Rockets,,,1.0,1.0
+470,Zeppelins,Guitars,Bumblebees,Zeppelins,,Bumblebees,,,1.0,1.0
+473,Robins,Penguins,Helicopters,Robins,,Helicopters,,,1.0,1.0
+475,Woodpeckers,Alligators,(Hot Air) balloons,Woodpeckers,,(Hot Air) balloons,,,1.0,1.0
+489,Pelicans,Donkeys,Airplanes,Pelicans,,Airplanes,,,1.0,1.0
+563,Woodpeckers,Ducks,Bats,Woodpeckers,,Bats,,,1.0,1.0
+566,Canaries,Giraffes,(Hot Air) balloons,Canaries,,(Hot Air) balloons,,,1.0,1.0
+584,Moths,Rabbits,Helicopters,Moths,,Helicopters,,,1.0,1.0
+589,Moths,Sheep,Storks,Moths,,Storks,,,1.0,1.0
+590,Owls,Monkeys,Mosquitoes,Owls,,Mosquitoes,,,1.0,1.0
+593,Seagulls,Pistols,Zeppelins,Seagulls,,Zeppelins,,,1.0,1.0
+613,Wasps,Snakes,Airplanes,Wasps,,Airplanes,,,1.0,1.0
+626,Pelicans,Ducks,Wasps,Pelicans,,Wasps,,,1.0,1.0
+755,Flies,Pistols,Helicopters,Flies,,Helicopters,,,1.0,1.0
+779,Pelicans,Elephants,Rockets,Pelicans,,Rockets,,,1.0,1.0
+790,Bees,Squid,Chickadees,Bees,,Chickadees,,,1.0,1.0
+840,Swallows,Llamas,Helicopters,Swallows,,Helicopters,,,1.0,1.0

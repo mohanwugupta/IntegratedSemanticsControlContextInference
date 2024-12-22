@@ -1,0 +1,151 @@
+,Premise 1,Premise 2,Premise 3,Conclusion,GPT-3.5
+0,Airplanes,Rhinos,,Crows,0.0
+1,Magpies,Turtles,,Zeppelins,0.0
+2,Dragonflies,Tracksuits,,Airplanes,5.0
+3,Bumblebees,Blouses,,Airplanes,0.0
+4,Cuckoos,Bass guitars,,(Hot Air) balloons,0.0
+5,Robins,Turkeys,,Mosquitoes,0.0
+6,Bats,Iguanas,,Butterflies,0.0
+7,Eagles,Wolves,,Flies,0.0
+8,(Hot Air) balloons,Elephants,,Bumblebees,0.0
+9,Doves,Foxes,,Helicopters,0.0
+10,Falcons,Snakes,,Helicopters,0.0
+11,Horseflies,Frogs,,Helicopters,0.0
+12,Sparrows,Saws,,Rockets,0.0
+13,Doves,Dolphins,,Helicopters,0.0
+14,Pheasants,Boots,,(Hot Air) balloons,0.0
+15,Bees,Jeans,,Zeppelins,0.0
+16,Herons,Sheep,,Airplanes,0.0
+17,Canaries,Bison,,Bees,100.0
+18,Blackbirds,Organs,,Airplanes,0.0
+19,Fruit Flies,Dolphins,,(Hot Air) balloons,50.0
+20,Chickadees,Levels,,Rockets,0.0
+21,Bees,Llamas,,Cuckoos,0.0
+22,Magpies,Carp,,Zeppelins,0.0
+23,Bumblebees,Toads,,Pelicans,0.0
+24,Horseflies,Salamanders,,Eagles,0.0
+25,Butterflies,Hippos,,Blackbirds,0.0
+26,Blackbirds,Hats,,Airplanes,0.0
+27,Helicopters,Pots,,Flies,0.0
+28,Blackbirds,Bras,,Airplanes,0.0
+29,Eagles,Clarinets,,Airplanes,0.0
+30,Sparrows,Snakes,,Zeppelins,0.0
+31,Storks,Panties,,Zeppelins,0.0
+32,Herons,Pigs,,Airplanes,0.0
+33,Swallows,Wolves,,Wasps,0.0
+34,Robins,Snakes,,Helicopters,0.0
+36,Falcons,Ducks,,(Hot Air) balloons,100.0
+37,Moths,Camels,,Canaries,0.0
+40,Owls,Rhinos,,Wasps,0.0
+45,Canaries,Bassoons,,Zeppelins,0.0
+46,Woodpeckers,Hedgehogs,,Dragonflies,0.0
+47,Flies,Rays,,Parakeets,0.0
+48,Cuckoos,Accordions,,(Hot Air) balloons,100.0
+51,Swallows,Piranhas,,Rockets,0.0
+52,Owls,Caimans,,Zeppelins,0.0
+55,Horseflies,Pan flutes,,(Hot Air) balloons,0.0
+59,Parakeets,Alligators,,Zeppelins,0.0
+60,Cuckoos,Turkeys,,Helicopters,0.0
+61,Eagles,Cobras,,Bats,0.0
+62,Bumblebees,Tortoises,,Rockets,0.0
+63,Magpies,Polar Bears,,Zeppelins,0.0
+64,Rockets,Colanders,,Flies,0.0
+67,Bees,Grasshoppers,,Airplanes,0.0
+71,Cuckoos,Woks,,Zeppelins,0.0
+72,Fruit Flies,Beetles,,Crows,0.0
+73,Cuckoos,Go-carts,,(Hot Air) balloons,100.0
+79,Horseflies,Swordfish,,Rockets,0.0
+81,Parrots,Trumpets,,Airplanes,5.0
+84,Storks,Jeans,,Rockets,0.0
+85,Mosquitoes,Toads,,Pheasants,100.0
+86,Cuckoos,Worms,,Flies,100.0
+89,Cuckoos,Lizards,,Horseflies,0.0
+95,Canaries,Cats,,Rockets,0.0
+100,Woodpeckers,Hedgehogs,,Bumblebees,0.0
+107,Sparrows,Alligators,,Rockets,0.0
+118,Zeppelins,Guitars,,Bumblebees,0.0
+121,Robins,Penguins,,Helicopters,0.0
+123,Woodpeckers,Alligators,,(Hot Air) balloons,0.0
+136,Pelicans,Donkeys,,Airplanes,0.0
+140,Woodpeckers,Ducks,,Bats,0.0
+143,Canaries,Giraffes,,(Hot Air) balloons,0.0
+161,Moths,Rabbits,,Helicopters,0.0
+166,Moths,Sheep,,Storks,50.0
+167,Owls,Monkeys,,Mosquitoes,50.0
+169,Seagulls,Pistols,,Zeppelins,0.0
+188,Wasps,Snakes,,Airplanes,0.0
+201,Pelicans,Ducks,,Wasps,100.0
+224,Flies,Pistols,,Helicopters,5.0
+247,Pelicans,Elephants,,Rockets,5.0
+258,Bees,Squid,,Chickadees,0.0
+273,Swallows,Llamas,,Helicopters,0.0
+979,Airplanes,,,Crows,5.0
+980,Magpies,,,Zeppelins,5.0
+981,Dragonflies,,,Airplanes,5.0
+982,Bumblebees,,,Airplanes,5.0
+983,Cuckoos,,,(Hot Air) balloons,5.0
+984,Robins,,,Mosquitoes,5.0
+985,Bats,,,Butterflies,5.0
+986,Eagles,,,Flies,5.0
+987,(Hot Air) balloons,,,Bumblebees,5.0
+988,Doves,,,Helicopters,5.0
+989,Falcons,,,Helicopters,5.0
+990,Horseflies,,,Helicopters,5.0
+991,Sparrows,,,Rockets,5.0
+993,Pheasants,,,(Hot Air) balloons,5.0
+994,Bees,,,Zeppelins,5.0
+995,Herons,,,Airplanes,10.0
+996,Canaries,,,Bees,10.0
+997,Blackbirds,,,Airplanes,5.0
+998,Fruit Flies,,,(Hot Air) balloons,5.0
+999,Chickadees,,,Rockets,5.0
+1000,Bees,,,Cuckoos,5.0
+1002,Bumblebees,,,Pelicans,5.0
+1003,Horseflies,,,Eagles,10.0
+1004,Butterflies,,,Blackbirds,5.0
+1006,Helicopters,,,Flies,5.0
+1008,Eagles,,,Airplanes,10.0
+1009,Sparrows,,,Zeppelins,5.0
+1010,Storks,,,Zeppelins,5.0
+1012,Swallows,,,Wasps,10.0
+1013,Robins,,,Helicopters,5.0
+1015,Falcons,,,(Hot Air) balloons,5.0
+1016,Moths,,,Canaries,10.0
+1019,Owls,,,Wasps,5.0
+1024,Canaries,,,Zeppelins,5.0
+1025,Woodpeckers,,,Dragonflies,5.0
+1026,Flies,,,Parakeets,5.0
+1030,Swallows,,,Rockets,5.0
+1031,Owls,,,Zeppelins,5.0
+1034,Horseflies,,,(Hot Air) balloons,5.0
+1038,Parakeets,,,Zeppelins,5.0
+1039,Cuckoos,,,Helicopters,5.0
+1040,Eagles,,,Bats,10.0
+1041,Bumblebees,,,Rockets,5.0
+1043,Rockets,,,Flies,5.0
+1046,Bees,,,Airplanes,5.0
+1050,Cuckoos,,,Zeppelins,5.0
+1051,Fruit Flies,,,Crows,10.0
+1058,Horseflies,,,Rockets,5.0
+1060,Parrots,,,Airplanes,5.0
+1063,Storks,,,Rockets,5.0
+1064,Mosquitoes,,,Pheasants,5.0
+1065,Cuckoos,,,Flies,5.0
+1068,Cuckoos,,,Horseflies,5.0
+1074,Canaries,,,Rockets,5.0
+1079,Woodpeckers,,,Bumblebees,5.0
+1097,Zeppelins,,,Bumblebees,5.0
+1102,Woodpeckers,,,(Hot Air) balloons,5.0
+1115,Pelicans,,,Airplanes,10.0
+1119,Woodpeckers,,,Bats,10.0
+1122,Canaries,,,(Hot Air) balloons,5.0
+1140,Moths,,,Helicopters,5.0
+1145,Moths,,,Storks,5.0
+1146,Owls,,,Mosquitoes,5.0
+1148,Seagulls,,,Zeppelins,5.0
+1167,Wasps,,,Airplanes,5.0
+1180,Pelicans,,,Wasps,10.0
+1203,Flies,,,Helicopters,5.0
+1226,Pelicans,,,Rockets,5.0
+1237,Bees,,,Chickadees,5.0
+1252,Swallows,,,Helicopters,5.0

@@ -1,0 +1,83 @@
+,Premise 1,Conclusion 1,Conclusion 2,Distractor 1,Distractor 2,Participant Group,GPT-3.5,GPT-4
+0,blackbird,mouse,airplane,bus,hamster,Distractor 1,1.0,3.0
+1,blackbird,mouse,airplane,bus,hamster,Distractor 2,1.0,3.0
+2,blackbird,mouse,airplane,car,hamster,Distractor 1,1.0,3.0
+3,blackbird,mouse,airplane,car,hamster,Distractor 2,1.0,3.0
+4,blackbird,polar bear,airplane,bus,penguin,Distractor 1,1.0,3.0
+5,blackbird,polar bear,airplane,bus,penguin,Distractor 2,2.0,2.0
+6,blackbird,polar bear,airplane,car,penguin,Distractor 1,1.0,3.0
+7,blackbird,polar bear,airplane,car,penguin,Distractor 2,2.0,2.0
+8,car,motorbike,train,tram,bicycle,Distractor 1,1.0,1.0
+9,car,motorbike,train,tram,bicycle,Distractor 2,3.0,1.0
+10,cat,hamster,horse,zebra,mouse,Distractor 1,1.0,1.0
+11,cat,hamster,horse,zebra,mouse,Distractor 2,2.0,1.0
+12,cello,guitar,piano,organ,bass guitar,Distractor 1,3.0,1.0
+13,cello,guitar,piano,organ,bass guitar,Distractor 2,3.0,2.0
+14,cobra,alligator,frog,toad,crocodile,Distractor 1,1.0,1.0
+15,cobra,alligator,frog,toad,crocodile,Distractor 2,2.0,2.0
+16,cobra,alligator,lizard,chameleon,crocodile,Distractor 1,1.0,3.0
+17,cobra,alligator,lizard,chameleon,crocodile,Distractor 2,2.0,2.0
+18,cobra,alligator,lizard,gecko,crocodile,Distractor 1,1.0,3.0
+19,cobra,alligator,lizard,gecko,crocodile,Distractor 2,2.0,2.0
+20,crow,mouse,airplane,bus,hamster,Distractor 1,1.0,3.0
+21,crow,mouse,airplane,bus,hamster,Distractor 2,2.0,3.0
+22,dolphin,whale,cod,herring,sperm whale,Distractor 1,1.0,1.0
+23,dolphin,whale,cod,herring,sperm whale,Distractor 2,1.0,2.0
+24,duck,pelican,cow,horse,seagull,Distractor 1,1.0,1.0
+25,duck,pelican,cow,horse,seagull,Distractor 2,1.0,2.0
+26,duck,pelican,pig,horse,seagull,Distractor 1,1.0,1.0
+27,duck,pelican,pig,horse,seagull,Distractor 2,1.0,1.0
+28,duck,pelican,salmon,goldfish,seagull,Distractor 1,1.0,1.0
+29,duck,pelican,salmon,goldfish,seagull,Distractor 2,1.0,1.0
+30,eagle,rooster,seagull,pelican,chicken,Distractor 1,2.0,3.0
+31,eagle,rooster,seagull,pelican,chicken,Distractor 2,3.0,3.0
+32,owl,cat,airplane,bus,lion,Distractor 1,1.0,1.0
+33,owl,cat,airplane,bus,lion,Distractor 2,1.0,1.0
+34,owl,polar bear,airplane,bus,penguin,Distractor 1,1.0,1.0
+35,owl,polar bear,airplane,bus,penguin,Distractor 2,2.0,2.0
+36,owl,polar bear,airplane,car,penguin,Distractor 1,1.0,1.0
+37,owl,polar bear,airplane,car,penguin,Distractor 2,2.0,2.0
+38,pelican,mouse,airplane,bus,hamster,Distractor 1,3.0,3.0
+39,pelican,mouse,airplane,bus,hamster,Distractor 2,2.0,3.0
+40,pelican,polar bear,airplane,bus,penguin,Distractor 1,1.0,3.0
+41,pelican,polar bear,airplane,bus,penguin,Distractor 2,2.0,2.0
+42,pelican,polar bear,airplane,van,penguin,Distractor 1,1.0,3.0
+43,pelican,polar bear,airplane,van,penguin,Distractor 2,2.0,2.0
+44,robin,mouse,airplane,bus,hamster,Distractor 1,1.0,3.0
+45,robin,mouse,airplane,bus,hamster,Distractor 2,2.0,1.0
+46,robin,mouse,airplane,car,hamster,Distractor 1,1.0,1.0
+47,robin,mouse,airplane,car,hamster,Distractor 2,2.0,1.0
+48,robin,polar bear,airplane,car,penguin,Distractor 1,1.0,1.0
+49,robin,polar bear,airplane,car,penguin,Distractor 2,2.0,2.0
+50,salmon,orca,pig,horse,whale,Distractor 1,1.0,1.0
+51,salmon,orca,pig,horse,whale,Distractor 2,2.0,1.0
+52,salmon,shark,chicken,sparrow,dolphin,Distractor 1,1.0,1.0
+53,salmon,shark,chicken,sparrow,dolphin,Distractor 2,1.0,1.0
+54,salmon,shark,chicken,sparrow,whale,Distractor 1,1.0,1.0
+55,salmon,shark,chicken,sparrow,whale,Distractor 2,1.0,1.0
+56,salmon,shark,pig,horse,dolphin,Distractor 1,1.0,1.0
+57,salmon,shark,pig,horse,dolphin,Distractor 2,1.0,1.0
+58,salmon,shark,pig,horse,whale,Distractor 1,1.0,1.0
+59,salmon,shark,pig,horse,whale,Distractor 2,1.0,1.0
+60,salmon,sperm whale,pig,horse,whale,Distractor 1,1.0,1.0
+61,salmon,sperm whale,pig,horse,whale,Distractor 2,2.0,1.0
+62,snake,alligator,frog,toad,crocodile,Distractor 1,1.0,1.0
+63,snake,alligator,frog,toad,crocodile,Distractor 2,1.0,1.0
+64,snake,alligator,lizard,chameleon,crocodile,Distractor 1,2.0,3.0
+65,snake,alligator,lizard,chameleon,crocodile,Distractor 2,3.0,3.0
+66,snake,alligator,lizard,gecko,crocodile,Distractor 1,1.0,3.0
+67,snake,alligator,lizard,gecko,crocodile,Distractor 2,3.0,3.0
+68,sparrow,mouse,airplane,bus,hamster,Distractor 1,1.0,3.0
+69,sparrow,mouse,airplane,bus,hamster,Distractor 2,2.0,3.0
+70,tank,car,rifle,pistol,truck,Distractor 1,3.0,1.0
+71,tank,car,rifle,pistol,truck,Distractor 2,2.0,2.0
+72,tank,truck,rifle,pistol,car,Distractor 1,1.0,1.0
+73,tank,truck,rifle,pistol,car,Distractor 2,1.0,1.0
+74,trout,orca,pig,horse,whale,Distractor 1,1.0,1.0
+75,trout,orca,pig,horse,whale,Distractor 2,2.0,1.0
+76,trout,shark,pig,horse,dolphin,Distractor 1,1.0,1.0
+77,trout,shark,pig,horse,dolphin,Distractor 2,1.0,1.0
+78,trout,shark,pig,horse,whale,Distractor 1,1.0,1.0
+79,trout,shark,pig,horse,whale,Distractor 2,1.0,1.0
+80,trout,sperm whale,pig,horse,whale,Distractor 1,1.0,1.0
+81,trout,sperm whale,pig,horse,whale,Distractor 2,2.0,1.0
