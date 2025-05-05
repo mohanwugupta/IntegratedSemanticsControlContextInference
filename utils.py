@@ -48,7 +48,7 @@ def format_figure(fig, **kwargs):
         mirror=True,
         ticks="outside",
         showgrid=False,
-        titlefont=dict(size=24),
+        title_font=dict(size=24),
     )
     fig.update_yaxes(
         showline=True,
@@ -58,7 +58,7 @@ def format_figure(fig, **kwargs):
         ticks="outside",
         showgrid=False,
         tickfont=dict(size=20),
-        titlefont=dict(size=24),
+        title_font=dict(size=24),
     )
     return fig
 
@@ -83,7 +83,9 @@ def load_cico_model(model_type, model_seed):
     Returns the model and the DataLoader used to train it.
     """
     path = f"models/{model_type}-seed{model_seed}.pt"
-    data = torch.load(path)
+    # data = torch.load(path)
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    data = torch.load(path, map_location=device)
     dataset_params = Map(data["dataset_params"])
     model_params = Map(data["model_params"])
 
